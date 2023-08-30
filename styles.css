@@ -1,10 +1,14 @@
 /*  your css code here. If applicable */
 #container{
 	margin:20px;
-	color:rgb(0, 0, 0);
 }
-.my1{
-	color:rgb(255, 0, 0);
+p:before{
+	content:"Before Element ";
+	color:#f00;
 	font-size:20px;
-	display:inline;
+}
+p:after{
+	content:" After Element";
+	color:#f00;
+	font-size:20px;
 }
