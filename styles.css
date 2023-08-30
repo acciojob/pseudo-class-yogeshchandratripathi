@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 #container{
 	margin:20px;
-	color:rgb(255, 0, 0);
+	color:rgb(0, 0, 0);
 }
-{
-	color:#f00;
+.my1{
+	color:rgb(255, 0, 0);
 	font-size:20px;
-	display:inline-block;
+	display:inline;
 }
