@@ -1,14 +1,15 @@
 /*  your css code here. If applicable */
 #container{
 	margin:20px;
+	color:rgb(0, 0, 0);
 }
 p:before{
 	content:"Before Element ";
-	color:rgb(255, 0, 0);
+	color:#f00;
 	font-size:20px;
 }
 p:after{
 	content:" After Element";
-	color:rgb(255, 0, 0);
+	color:#f00;
 	font-size:20px;
 }
